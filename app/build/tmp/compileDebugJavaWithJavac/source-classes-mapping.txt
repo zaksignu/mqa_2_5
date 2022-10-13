@@ -1,0 +1,41 @@
+ru/kkuzmichev/simpleappforespresso/ui/slideshow/SlideshowFragment.java
+ ru.kkuzmichev.simpleappforespresso.ui.slideshow.SlideshowFragment
+ ru.kkuzmichev.simpleappforespresso.ui.slideshow.SlideshowFragment$1
+ru/kkuzmichev/simpleappforespresso/MainActivity.java
+ ru.kkuzmichev.simpleappforespresso.MainActivity
+ ru.kkuzmichev.simpleappforespresso.MainActivity$1
+ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryFragment.java
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryFragment
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryFragment$1
+ru/kkuzmichev/simpleappforespresso/BuildConfig.java
+ ru.kkuzmichev.simpleappforespresso.BuildConfig
+ru/kkuzmichev/simpleappforespresso/ui/home/HomeFragment.java
+ ru.kkuzmichev.simpleappforespresso.ui.home.HomeFragment
+ ru.kkuzmichev.simpleappforespresso.ui.home.HomeFragment$1
+ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryViewModel.java
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryViewModel
+ru/kkuzmichev/simpleappforespresso/databinding/AppBarMainBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.AppBarMainBinding
+ru/kkuzmichev/simpleappforespresso/databinding/NavHeaderMainBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.NavHeaderMainBinding
+ru/kkuzmichev/simpleappforespresso/databinding/FragmentSlideshowBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.FragmentSlideshowBinding
+ru/kkuzmichev/simpleappforespresso/databinding/FragmentGalleryBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.FragmentGalleryBinding
+ru/kkuzmichev/simpleappforespresso/databinding/ListItemBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.ListItemBinding
+ru/kkuzmichev/simpleappforespresso/databinding/FragmentHomeBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.FragmentHomeBinding
+ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryAdapter.java
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryAdapter
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryAdapter$ViewHolder
+ru/kkuzmichev/simpleappforespresso/ui/home/HomeViewModel.java
+ ru.kkuzmichev.simpleappforespresso.ui.home.HomeViewModel
+ru/kkuzmichev/simpleappforespresso/databinding/ContentMainBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.ContentMainBinding
+ru/kkuzmichev/simpleappforespresso/ui/slideshow/SlideshowViewModel.java
+ ru.kkuzmichev.simpleappforespresso.ui.slideshow.SlideshowViewModel
+ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryItem.java
+ ru.kkuzmichev.simpleappforespresso.ui.gallery.GalleryItem
+ru/kkuzmichev/simpleappforespresso/databinding/ActivityMainBinding.java
+ ru.kkuzmichev.simpleappforespresso.databinding.ActivityMainBinding

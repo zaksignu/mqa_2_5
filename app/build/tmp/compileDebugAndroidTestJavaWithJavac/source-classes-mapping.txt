@@ -1,0 +1,7 @@
+ru/kkuzmichev/simpleappforespresso/test/BuildConfig.java
+ ru.kkuzmichev.simpleappforespresso.test.BuildConfig
+ru/kkuzmichev/simpleappforespresso/ExampleInstrumentedTest.java
+ ru.kkuzmichev.simpleappforespresso.ExampleInstrumentedTest
+ru/kkuzmichev/simpleappforespresso/espressoTest.java
+ ru.kkuzmichev.simpleappforespresso.espressoTest
+ ru.kkuzmichev.simpleappforespresso.espressoTest$1
